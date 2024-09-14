@@ -1,0 +1,86 @@
+#tag:hover{
+    /* position: absolute; */
+    transition: all 0.3s ease-in-out;
+    top: 0;
+    left: 0;
+    background-color: #09b794;
+    transform: scale(1.03);
+}
+/* #divtag{
+    cursor: pointer;
+    position: relative;
+    display: block;
+    overflow: hidden;
+} */
+.text-7xl{
+    padding-top: 32px;
+    font-size: 4rem;
+}
+.text-4xl{
+    font-size: 3rem;
+}
+
+
+.line{
+    background-color: white;
+    width: 8rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+}
+.lines{
+    background-color: #3b3d3c;
+    width: 8rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+}
+.text-small{
+    padding-top: 6px;
+    padding-bottom: 6.8rem;
+    font-size: 20px;
+    font-family: system-ui;
+}
+.text-big{
+    padding-top: 6px;
+    padding-bottom: 6.5rem;
+    font-size: 24px;
+    font-family: system-ui;
+}
+.text-portfolio-smallest{
+    margin-top: 65px;
+    padding-top: 15px;
+    font-size: 42px;
+    font-weight: bolder;
+}
+.text-portfolio-small{
+    padding-top: 15px;
+    /* padding-bottom: 6.5rem; */
+    font-size: 42px;
+    font-weight:bolder;
+}
+.text-portfolio-big{
+    padding-top: 32px;
+    /* padding-bottom: 6.5rem; */
+    font-size: 54px;
+    font-weight: 900;
+}
+
+.about-big{
+    padding-top: 70px;
+    font-family: system-ui;
+    font-size: 50px;
+    font-weight:bolder;   
+}
+.about-small{
+    padding-top: 70px;
+    font-size: 42px;
+    font-weight:bolder;
+}   
+
+
+.border_class{
+    /* border: 1px solid rgb(148, 148, 148); */
+    border-width: 2px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+}
